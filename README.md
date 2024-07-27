@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **LeandroAS27/LeandroAS27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="left">Olá👋 tudo bem?</h1>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">📚 Eu estou atualmente aprendendo React<br>🎯 Objetivo: Trabalhar com Front-End<br>🎲 Fato curioso: Estou em transição de carreira da Defesa cibernética para Dev Front-End</p>
+
+###
+
+<h2 align="left">Eu desenvolvo com essas linguagens</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
