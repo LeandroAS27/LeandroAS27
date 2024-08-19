@@ -42,16 +42,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-
-<h1 align="left">Olá👋 tudo bem?</h1>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">📚 Eu estou atualmente aprendendo React<br>🎯 Objetivo: Trabalhar com Front-End<br>🎲 Fato curioso: Estou em transição de carreira da Defesa cibernética para Dev Front-End</p>
-
-###
