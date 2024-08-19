@@ -36,6 +36,22 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
+
+###
+
+
+<h1 align="left">Olá👋 tudo bem?</h1>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">📚 Eu estou atualmente aprendendo React<br>🎯 Objetivo: Trabalhar com Front-End<br>🎲 Fato curioso: Estou em transição de carreira da Defesa cibernética para Dev Front-End</p>
 
 ###
