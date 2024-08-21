@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 Eu estou atualmente aprendendo React<br>🎯 Objetivo: Trabalhar com Front-End<br>🎲 Fato curioso: Estou em transição de carreira da Defesa cibernética para Dev Front-End</p>
+<p align="left">📚 Eu estou atualmente aprendendo React e TypeScript<br>🎯 Objetivo: Trabalhar com Front-End<br>🎲 Fato curioso: Estou em transição de carreira da Defesa cibernética para Dev Front-End</p>
 
 ###
 
